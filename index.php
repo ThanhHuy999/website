@@ -1,5 +1,7 @@
 <html>
-<head>Sony center</head>
+<head>
+<title>Sony cneter</title>
+</head>
 
 <body>
 
